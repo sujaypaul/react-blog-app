@@ -1,0 +1,24 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/low-poly-white-background-design_1017-33204.jpg?w=2000');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: rgb(170 187 204);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgb(179, 183, 187);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(100, 104, 114);
+}
